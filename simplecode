@@ -1,0 +1,1 @@
+python train.py --dataset=ucf101 --model=resnet --video_path=test.mp4 --annotation_path=/home/tomrunia/data/UCF-101/ucfTrainTestlist/ucf101_01.json --batch_size=64 --num_classes=101 --momentum=0.9 --weight_decay=1e-3 --model_depth=34 --resnet_shortcut=A --spatial_size=112 --sample_duration=16 --optimizer=SGD --learning_rate=0.01

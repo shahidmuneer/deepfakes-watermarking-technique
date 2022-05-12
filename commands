@@ -1,0 +1,4 @@
+& "d:/BULC/3rd Semester/Thesis I/Deepfakes detection/practicle/RivaGAN-master/RivaGAN-venv/Scripts/Activate.ps1"
+set PATH=d:/BULC/3rd Semester/Thesis I/Deepfakes detection/practicle/RivaGAN-master/RivaGAN-venv/Scripts/Activate.ps1
+python -c "import sys; print(sys.executable)"
+pip install torch===1.5.0 torchvision===0.6.0 -f https://download.pytorch.org/whl/torch_stable.html

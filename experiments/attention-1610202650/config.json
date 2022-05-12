@@ -1,0 +1,9 @@
+{
+  "model": "attention",
+  "data_dim": 32,
+  "seq_len": 1,
+  "batch_size": 1,
+  "dataset": "data/hollywood",
+  "lr": 0.0005,
+  "log_dir": "experiments/attention-1610202650"
+}

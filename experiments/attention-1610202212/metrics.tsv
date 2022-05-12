@@ -1,0 +1,3 @@
+train.loss	train.raw_acc	train.mjpeg_acc	train.adv_loss	val.ssim	val.psnr	val.crop_acc	val.scale_acc	val.mjpeg_acc	epoch
+NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1
+NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2
