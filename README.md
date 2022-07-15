@@ -1,3 +1,22 @@
+<h1>
+Following is the folder structure:
+</h1>
+<ol>
+    <li>
+    <h2>experiments_data:</h2>
+    <p>This contains different experiments data. It has model.pt and experimentation results.</p>
+    </li>
+    <li>
+    <h2>rivagan:</h2>
+    <p>It contains core classes of encoder decoder network. </p>
+    </li>
+    <li>
+    <h2>data:</h2>
+    <p>Data is where the model.pt will be added and dataset for training can also be placed here. </p>
+    </li>
+</ol>
+
+
 <p align="left">
 <img width=15% src="https://dai.lids.mit.edu/wp-content/uploads/2018/06/Logo_DAI_highres.png" alt=“DAI-Lab” />
 <i>An open source project from Data to AI Lab at MIT.</i>
